@@ -1,7 +1,7 @@
 ## STRIDE_project_template
 Setting up a template repository to manage STRIDE projects
 
-The purpose of this project is [].
+The purpose of this project is to show participants how github works.
 My hypothesis is [].
 
 I plan to collect data from [] and [] and []. 
